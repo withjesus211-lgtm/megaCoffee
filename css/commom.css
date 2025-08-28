@@ -1,0 +1,14 @@
+*   { margin: 0; padding: 0;}
+body{
+    
+}
+li  { list-style: none;}
+a   { 
+    text-decoration: none; 
+    color: inherit;
+    /* color: #222; */
+}
+img, video { 
+    vertical-align: middle;
+}
+em, i, address{ font-style: normal;}
